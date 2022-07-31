@@ -84,7 +84,7 @@ export default {
 }
 .pagination {
   display: flex;
-  width: 290 px;
+  width: 290px;
 }
 .pagination a {
   flex: 1;
